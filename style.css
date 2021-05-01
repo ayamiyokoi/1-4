@@ -1,0 +1,31 @@
+.header-box1 {
+  background-color: red;
+  height: 50px;
+}
+
+.header-box2 {
+  background-color: orange;
+  height: 500px;
+  width: 100%;
+}
+
+.main {
+  display: flex;
+  height: 1400px;
+  justify-content: center;
+}
+
+.box1 {
+  background-color: lightgreen;
+  width: 230px;
+}
+
+.box2 {
+  background-color: green;
+  width: 500px;
+}
+
+.footer {
+  background-color: blue;
+  height: 100px;
+}
